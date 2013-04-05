@@ -1,0 +1,8 @@
+{
+    "name": "failpunk/ActiveMongo",
+    "license": "BSD",
+    "homepage": "https://github.com/crodas/ActiveMongo",
+    "require": {
+        "composer/installers": "*"
+    }
+}
