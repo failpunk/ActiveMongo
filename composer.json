@@ -1,5 +1,5 @@
 {
-    "name": "failpunk/ActiveMongo",
+    "name": "failpunk/activemongo",
     "license": "BSD",
     "homepage": "https://github.com/crodas/ActiveMongo",
     "require": {
