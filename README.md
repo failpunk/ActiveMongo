@@ -1,5 +1,5 @@
-Really simple Activedocument for MongoDB
-----------------------------------------
+Really Simple Activedocument for MongoDB
+========================================
 
 MongoDB is a very powerful database, high performance and amicable. I wrote an article about it,
 
@@ -11,6 +11,7 @@ Comments, patches, bug reports are welcome to the blog post, my personal e-mail 
 
 
  What it does now:
+ -----------------
 
 - Handle MongoDB connection, connecting once when it is needed
 - Define a Collection as a class
@@ -30,6 +31,7 @@ Comments, patches, bug reports are welcome to the blog post, my personal e-mail 
 - Dynamic References (AKA, save a query to execute later)
 
 TODO:
+-----
 
 - PHP Streams support for GridFS
 - Tools for setup and manage a sharded environment 
